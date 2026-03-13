@@ -1,5 +1,9 @@
 # Vertex Cover Heuristic
 
+This small Python demo builds a sample graph, explains the NP-complete vertex
+cover problem, and showcases a greedy 2-approximation whose step-by-step
+execution is animated in the terminal for easy visualization.
+
 ## Problem Overview
 A vertex cover of a graph $G = (V, E)$ is a subset $C \subseteq V$ such that every edge in $E$ touches at least one vertex in $C$. Determining the smallest possible cover is a classic combinatorial optimization problem that quickly becomes challenging even for modestly sized graphs.
 
