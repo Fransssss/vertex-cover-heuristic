@@ -7,12 +7,22 @@ implements a simple greedy heuristic algorithm.
 
 ## Table of Contents
 
-1. [What is the Vertex Cover Problem?](#what-is-the-vertex-cover-problem)
-2. [Why is it NP-Complete?](#why-is-it-np-complete)
-3. [Heuristic Algorithm](#heuristic-algorithm)
-4. [Project Structure](#project-structure)
-5. [Example Run](#example-run)
-6. [Approximation vs. Exact Solutions](#approximation-vs-exact-solutions)
+1. [Video Demo](#video-demo)
+2. [What is the Vertex Cover Problem?](#what-is-the-vertex-cover-problem)
+3. [Why is it NP-Complete?](#why-is-it-np-complete)
+4. [Heuristic Algorithm](#heuristic-algorithm)
+5. [Project Structure](#project-structure)
+6. [Example Run](#example-run)
+7. [Approximation vs. Exact Solutions](#approximation-vs-exact-solutions)
+
+---
+
+## Video Demo
+
+<video src="VertexCoverHeuristic.mp4" controls title="Vertex Cover Heuristic Demo" width="720"></video>
+
+> **Note:** If the video does not display above, you can
+> [view it directly in the repository](VertexCoverHeuristic.mp4).
 
 ---
 
