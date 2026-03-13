@@ -59,6 +59,9 @@ Greedy vertex cover:
 
 The sample graph has an optimal cover of size 2 (vertices {A, D}), so the heuristic cover of size 4 is feasible but not optimal—exactly the trade-off this project is meant to showcase.
 
+## Video Demo
+If video not show, open the video directly from the repo (.mp4 file)
+
 ## Approximation vs. Exact Solutions
 - **Exact algorithms** (branch-and-bound, ILP formulations, kernelization plus search) can find optimal covers but typically require exponential time in the worst case.
 - **Approximation algorithms** deliver guarantees at a fraction of the runtime. The simple edge-picking heuristic here is a 2-approximation: it never returns a cover more than twice the optimal size, though in practice it may perform much better—or slightly worse than the theoretical bound when the selection order is unlucky.
